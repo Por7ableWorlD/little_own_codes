@@ -1,0 +1,22 @@
+Lines read from file:
+mas.Get(i) = Hello, world!
+mas.Get(i) = 
+mas.Get(i) = wazaaaapp
+mas.Get(i) = 
+mas.Get(i) = OLOLOLOLOLOLOLOLOLOLOLO
+
+A isn't empty
+A.length() = 13
+A.digitsAmount() = 0
+A.showSymbols(): He, wrd!
+A.showLongest(): ll
+
+B is empty
+B.length() = 0
+B.digitsAmount() = 0
+B.showSymbols(): 
+B.showLongest(): 
+
+A != B
+C = Hello, world!
+getCount() = 6
